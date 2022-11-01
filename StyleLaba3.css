@@ -43,7 +43,6 @@ li{
     list-style-type: none;
 }
 li::before{
-    
     content: "-";
     color: #18978F; 
 }
